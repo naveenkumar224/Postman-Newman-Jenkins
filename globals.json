@@ -1,0 +1,24 @@
+{
+	"id": "9150e4c2-d76b-4d4f-82d1-050554991457",
+	"values": [
+		{
+			"key": "URL",
+			"value": "https://reqres.in",
+			"enabled": true
+		},
+		{
+			"key": "Emp_URL",
+			"value": "http://dummy.restapiexample.com",
+			"enabled": true
+		},
+		{
+			"key": "ename",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2020-06-22T10:49:00.476Z",
+	"_postman_exported_using": "Postman/7.26.1"
+}

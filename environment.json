@@ -1,0 +1,29 @@
+{
+	"id": "86322f77-907d-42a2-abb2-98bb89ae765b",
+	"name": "ReqRes",
+	"values": [
+		{
+			"key": "number",
+			"value": "4",
+			"enabled": true
+		},
+		{
+			"key": "Employee_id",
+			"value": "2",
+			"enabled": true
+		},
+		{
+			"key": "Update_empID",
+			"value": "21",
+			"enabled": true
+		},
+		{
+			"key": "Delete_empID",
+			"value": "214",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-06-22T10:47:48.056Z",
+	"_postman_exported_using": "Postman/7.26.1"
+}
